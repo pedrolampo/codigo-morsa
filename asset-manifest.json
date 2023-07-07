@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codigo-morsa/static/css/main.5b4adf42.css",
+    "main.js": "/codigo-morsa/static/js/main.833a9d73.js",
+    "index.html": "/codigo-morsa/index.html",
+    "main.5b4adf42.css.map": "/codigo-morsa/static/css/main.5b4adf42.css.map",
+    "main.833a9d73.js.map": "/codigo-morsa/static/js/main.833a9d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4adf42.css",
+    "static/js/main.833a9d73.js"
+  ]
+}
